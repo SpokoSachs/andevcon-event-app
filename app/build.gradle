@@ -40,6 +40,11 @@ android {
             versionName '0.1'
         }
         // If you are forking this app, add your own product flavor here
+        andevcon {
+            applicationId 'com.hyperaware.conference.andevconsc2015'
+            versionCode 3
+            versionName '1.0'
+        }
     }
 }
 

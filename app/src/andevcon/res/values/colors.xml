@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- http://www.colourlovers.com/palette/3803661/hangdroid -->
+    <color name="theme_primary">#A4C639</color>
+    <color name="theme_primary_dark">#748C2A</color>
+    <color name="theme_accent">#7A5310</color>
+
+</resources>
