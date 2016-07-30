@@ -36,9 +36,9 @@ android {
         }
         // If you are forking this app, add your own product flavor here
         andevcon {
-            applicationId 'com.hyperaware.conference.andevconsc2015'
-            versionCode 3
-            versionName '1.0'
+            applicationId 'com.hyperaware.conference.andevcon'
+            versionCode 4
+            versionName '1.0.1'
         }
     }
 }

@@ -13,10 +13,8 @@ import dagger.Component;
     modules = {
         AndroidModule.class,
         AdjustableClockModule.class,
+        AppExecutorsModule.class,
         EventBusModule.class,
-        EventDataSourceModule.class,
-        HttpEventmobiModule.class,
-        AdcSessionFeedbackModule.class,
     }
 )
 public interface AdcAppComponent extends AppComponent {
